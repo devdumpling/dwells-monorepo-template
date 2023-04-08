@@ -1,8 +1,8 @@
 import "../styles/globals.css";
 
 export const metadata = {
-  title: "Intervu",
-  description: "A better way to interview",
+  title: "Dwells",
+  description: "A template",
 };
 
 export default function RootLayout({
