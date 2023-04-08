@@ -8,7 +8,7 @@ TODO:
 
 - [ ] Setup CI/CD
 - [ ] Setup testing 
-- [ ] Setup Nextra docs
+- [x] Setup Nextra docs
 - [ ] Setup build tooling
 - [ ] Add script for init vercel deployments
 - [ ] Add GHA metrics
