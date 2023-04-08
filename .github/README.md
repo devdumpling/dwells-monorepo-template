@@ -2,6 +2,17 @@
 
 For quick copy-pasta based on the setup I like (which I'm calling DevStack).
 
+> Version 0.0.1
+
+TODO:
+
+- [ ] Setup CI/CD
+- [ ] Setup testing 
+- [ ] Setup Nextra docs
+- [ ] Setup build tooling
+- [ ] Add script for init vercel deployments
+- [ ] Add GHA metrics
+
 ## Stack
 
 | Category      | Tools                   |
